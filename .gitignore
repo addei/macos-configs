@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.readme.md
 !fastfetch/
 !fastfetch/config.jsonc
 !btop/  
