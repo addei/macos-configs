@@ -1,0 +1,6 @@
+*
+!.gitignore
+!fastfetch/
+!fastfetch/config.jsonc
+!btop/  
+!btop/btop.conf
