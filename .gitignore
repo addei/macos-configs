@@ -5,3 +5,6 @@
 !fastfetch/config.jsonc
 !btop/  
 !btop/btop.conf
+!iterm2/
+!iterm2/com.googlecode.iterm2.plist
+!iterm2/DynamicProfiles/*
